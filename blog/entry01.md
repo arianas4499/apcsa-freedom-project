@@ -6,12 +6,14 @@ Tool & Project: The freedom project is a long year project where you make anythi
 ### GDevelop:
 GDevelop really caught my attention because you can make 3D or 2D games. As of now with GDevelop I haven't really done any code at all because most of the things that I've tried have to do with behaviors. In one of the guided lessons I learned how to
 
+I unchecked the box for "follow on y-axis" because we only want the camera to follow the charcater on the x-axis.
+
 
 ### EDP:
 I am currently on stage 2 and 3 of the EDP. We've done some research on our tool and have already brainstormed some ideas on how we want to use our tools to make a game or etc. I've decided that I want to use GDevelop to make a game with different levels that requires you to complete a task in order to move on to the next. Although I already have an idea of what I want my game to look like there is still a lot that I have to learn about my tool in order to make this possible, therefore, I will continue to tinker and possibly start to look more into the documentation to see what else I can add besides just what was given in the guided lessons.
 
 ### Skills:
-While going through the process of learning my tool, I have learned how to manage my time and how to learn. Every monday we have time in class to tinker with our tool but we don't have the whole period. Throughout the week we don't have time in class to tinker with our tool, we have to do it at home or during our free time. Therefore, being able to manage my time and sort of leaving some time to tinker with my tool with also having other homework to do has definitely been a challenge. How to learn has also been another skill I've developed because with GDevelop they have a variation of games that could be made and that you could play to get an idea of what you want to make but also they provided guided lessons to be able to learn how to make different things. That has been a big help because without the guided lessons I wouldn't really know where to start with tinkering. 
+While going through the process of learning my tool, I have learned how to manage my time and how to learn. Every monday we have time in class to tinker with our tool but we don't have the whole period. Throughout the week we don't have time in class to tinker with our tool, we have to do it at home or during our free time. Therefore, being able to manage my time and sort of leaving some time to tinker with my tool with also having other homework to do has definitely been a challenge. How to learn has also been another skill I've developed because with GDevelop they have a variation of games that could be made and that you could play to get an idea of what you want to make but also they provided guided lessons to be able to learn how to make different things. That has been a big help because without the guided lessons I wouldn't really know where to start with tinkering.
 
 
 
