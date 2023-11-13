@@ -4,20 +4,16 @@ Tool & Project: The freedom project is a long year project where you make anythi
 
 
 ### GDevelop:
-GDevelop really caught my attention because you can make 3D or 2D games. As of now with GDevelop I haven't really done any code at all because most of the things that I've tried have to do with behaviors. In one of the guided lessons I learned how to
-<img width="927" alt="Screenshot 2023-11-12 at 7 10 32 PM" src="https://github.com/arianas4499/apcsa-freedom-project/assets/91750441/988d6444-5c7b-4eae-9395-3afcf0479d01">
-
+GDevelop really caught my attention because you can make 3D or 2D games. As of now with GDevelop I haven't really done any code at all because most of the things that I've tried have to do with behaviors. In one of the guided lessons I learned how to get the background to move with the character. Throughout all of these guided lessons I learned that GDevelop is more aboit adding behaviors to different onjects.
+I started off by adding a `smooth camera` behavior to the character.
 
 <img width="942" alt="Screenshot 2023-11-12 at 7 13 03 PM" src="https://github.com/arianas4499/apcsa-freedom-project/assets/91750441/e171da1f-04c1-400e-8cd1-8cb5b58dc57e">
 
-<img width="431" alt="Screenshot 2023-11-12 at 7 16 35 PM" src="https://github.com/arianas4499/apcsa-freedom-project/assets/91750441/8d47cebb-3fcc-4ccf-877a-da8bcd9b8cf2">
+I unchecked the box for "follow on y-axis" because we only want the camera to follow the charcater on the x-axis.
 <img width="359" alt="Screenshot 2023-11-12 at 7 13 20 PM" src="https://github.com/arianas4499/apcsa-freedom-project/assets/91750441/2de5e35f-8712-4a0d-a61e-2a4942a4d4d4">
 
-
-
-
-
-I unchecked the box for "follow on y-axis" because we only want the camera to follow the charcater on the x-axis.
+I then set the background to a certain image and then layered another background on top of the first one. For the forst background I set its value to `CamerCenterX()/8` to allow the first background to move. I did the same with the second layer excpet that one was `CameraCenterX()/3` but they both did the same thing.
+<img width="431" alt="Screenshot 2023-11-12 at 7 16 35 PM" src="https://github.com/arianas4499/apcsa-freedom-project/assets/91750441/8d47cebb-3fcc-4ccf-877a-da8bcd9b8cf2">
 
 
 ### EDP:
