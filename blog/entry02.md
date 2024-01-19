@@ -14,7 +14,9 @@ Unfortunately, I was unable to include a video of how `text_autoTyping` works. H
 
 ##### Scene
 I went through the GDevelop documentaion to look for actions that could be added to the scene. `CurrentSceneName()` is used when you want the user to quit, pause, start or change the game. Which is kinda interesting how one expression can do so much. I've tried incorporating the expressions for the `auto typigng`, such as; pause,skip, end and etc, howvever, it hasn't really wokred for me.  If the scene is going to be 3D, there is a variety of expressions that can be used,  depending on where we want the camera to rotate. For instance, if we want the camera to rotate towards tge X-axis we would input `Scene3D::CameraRotationX(layer name, number)` or if it wanted to be rotated towards the Y- axis it would be the same expect the X would change to a Y and etc.
+
 I also want to make my game 3D, therefore, I've been looking at the documentaion for 3D models instead of 2D because they use different file format. Which is actually very important to know, otherwise it would not have worked. 3D models are saved in .glb format and if I want to add lighting I have to add it through layers effects. Which basically adds effects to objects.
+
 There's also `global objects` that are useable by all scences but this can't be undone. But this would be helpful when I dont want to make a same object for every scence, I could just do it once.Once I finish finding enough expressions that I want added into my game, I will start tinkering with a game template while also adding those expressions. So far I will be tinkering with what I have found so far but defenielty with the auto- typing animation because that's what I want the most.
 
 ### EDP
