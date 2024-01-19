@@ -20,7 +20,13 @@ I also want to make my game 3D, therefore, I've been looking at the documentaion
 There's also `global objects` that are useable by all scences but this can't be undone. But this would be helpful when I dont want to make a same object for every scence, I could just do it once.Once I finish finding enough expressions that I want added into my game, I will start tinkering with a game template while also adding those expressions. So far I will be tinkering with what I have found so far but defenielty with the auto- typing animation because that's what I want the most.
 
 ### EDP
+I am currently on step 3 and 4 of the engineering design process because I'm still figuring out the documentaion and how to actaully use it, as well as how I want to use it in my game. Although, it has been a struggle to combine things in the documentaion to create something such as the `auto typing effect` with the expressions, but it will be neccessary for the next step where I will actually have to start creating the bare minimum for a working game.
 
+### Skills
+While going through the process of brainstorming possible solutions, I have learned how to learn and how to google. For instance, when I was really struggling with adding expressions into my object I googled how to use it and I got a website of information that seemed very useful. I also learned how to learn because the documentaion doesn't really explain how to use it so I've had to figure it out on my own and it defenitely has not been easy but worth it.
+
+### Next Steps
+My next steps are for sure to know how to incorporate expressions into my objects because that will help me achieve my goal. However, if I really don't understand how to do it by the end of when blog 3 is due then I will focus more on other things because I also need to create a working game. The `auto-typing effect` is just an extra thing that i would really like to add and I hope to accomplish. I will also have a look at ` https://wiki.gdevelop.io/gdevelop5/all-features/string-instructions/ ` because this has a good explanation of what I'm trying to achieve. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
