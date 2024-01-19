@@ -1,5 +1,5 @@
 # Entry 2
-##### 12/18/23 Learning GDevelop
+### 12/18/23 Learning GDevelop
 
 ### Introduction
  The freedom project is a long year project where you make anything of your choice. For this year's freedom project I decided to choose GDevelop as my tool. In my previous blog I talked about how I looked at the GDevelop documentation and started messing around with some of the behaviors/expressions. In this blog I'll go more in depth about how I started trying to make something that I actually want included into my game.
@@ -26,7 +26,7 @@ I am currently on step 3 and 4 of the engineering design process because I'm sti
 While going through the process of brainstorming possible solutions, I have learned how to learn and how to google. For instance, when I was really struggling with adding expressions into my object I googled how to use it and I got a website of information that seemed very useful. I also learned how to learn because the documentaion doesn't really explain how to use it so I've had to figure it out on my own and it defenitely has not been easy but worth it.
 
 ### Next Steps
-My next steps are for sure to know how to incorporate expressions into my objects because that will help me achieve my goal. However, if I really don't understand how to do it by the end of when blog 3 is due then I will focus more on other things because I also need to create a working game. The `auto-typing effect` is just an extra thing that i would really like to add and I hope to accomplish. I will also have a look at ` https://wiki.gdevelop.io/gdevelop5/all-features/string-instructions/ ` because this has a good explanation of what I'm trying to achieve. 
+My next steps are for sure to know how to incorporate expressions into my objects because that will help me achieve my goal. However, if I really don't understand how to do it by the end of when blog 3 is due then I will focus more on other things because I also need to create a working game. The `auto-typing effect` is just an extra thing that i would really like to add and I hope to accomplish. I will also have a look at ` https://wiki.gdevelop.io/gdevelop5/all-features/string-instructions/ ` because this has a good explanation of what I'm trying to achieve.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
