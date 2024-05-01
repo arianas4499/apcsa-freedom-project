@@ -18,17 +18,17 @@ I didn't know how to fix it and when I searched it up on the documentaion it was
 
 This video helped so much because it showed step by step on how to add the background so as I followed along with the tutorial I was able to add my background.
 #### Level 2:
-Level 2 is very similar to level 1 except difficulty will be different on each level.
+Level 2 is soemthing that I will continue to work on. I'm still trying to figure out how to be able to add enemies and make my character be able to die so level 2 is a work in progress but as long as level 1 is fully done, level 2 won't be as difficult.
 
 
 ### EDP
-I am currently on step 4, 5 and 6 of the engineering design process. I am on step 4 because I still had to map out/ plan out what I wanted these two currrent levels to look like, however, the main focus was to start creating my vision. This is where step 5 and 6 of the engineering design process come in, I am creating my game while also testing it out to see if the game actually works. Even if the game isn't exactly how i envision it, it should at least be able to do the baiscs. Therefore, creating the basics of the game was the main golal during this blog.
+I am currently on step 4, 5 and 6 of the engineering design process. I am on step 4 because I still had to map out/ plan out what I wanted these two currrent levels to look like, however, the main focus was to start creating my vision. This is where step 5 and 6 of the engineering design process come in, I am creating my game while also testing it out to see if the game actually works. Even if the game isn't exactly how I envisioned it, it should at least be able to do the baiscs. Therefore, creating the basics of the game was the main golal during this blog.
 
 ### Skills
-One of the skills that I have yet to be able to master is being able to master my time wisely. The freedom project is mainly done outside of school and is on our own free time. There are some days where we have time in class but for majority of the time it's at home. But since it isn't being checked everyday then procrasinating becomes even easier.
+One of the skills that I have yet to be able to master is being able to master my time wisely. The freedom project is mainly done outside of school and is on our own free time. There are some days where we have time in class but for majority of the time it's at home. But since it isn't being checked everyday then procrasinating becomes even easier. As well as googling was one of the biggest skills that I've developed because googling for help has really helped a lot.
 
 ### What's next?:
-My next step for the freedom project is to add a timer for the player to make it more interesting. As well as adding a text box so that the text can be displayed and hopefully make it so that it is moving along with the character and can be skipped. These are basically the last things for the mvp so if it does not take up to much time then I can start working beyond mvp and make it work even smoother.
+My next step for the freedom project is to add a timer for the player to make it more interesting. As well as adding a text box so that the text can be displayed and hopefully make it so that it is moving along with the character and can be skipped. These are basically the last things for the mvp so if it does not take up to much time then I can start working beyond mvp and make it work even smoother. Also, to work on level 2 and I think I want to change the background because it looks kind of blurry and not so clear. 
 
 
 Text
