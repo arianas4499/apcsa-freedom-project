@@ -11,7 +11,7 @@ So far with level 1 there has already been a lot of difficulty.  Adding a charac
 I didn't find one speficically for how to add a character but this video went in depth on how to create a game. This however, still didn't help as much. I went on google to search up how to add a character on gdevelop with sprite sheets and I found this: https://wiki.gdevelop.io/gdevelop5/tutorials/piskel-sprite-sheets/#import-the-sprite-sheet
 This website was SUPER helpful because everything made sense. Unfortunately, the first sprite sheet wasn't evenely spread out, therefore it wasn't so easy to cut them so that they align perfectly. However, after looking for a second sprite sheet I found one that I liked and that one was aligned perfectly and I was able to add it onto a game.
 
-######
+###### Background
 Adding a background was also really difficult. In the beginning when I was first starting to learn about gdevelop I said that adding a background was the easiset thing to do because at the time it really looked simple. However, when you're starting off from scratch it is a slightly more difficult because it has nothing, no behaviors, animations, nothing. At first when I was adding the background it would show multiple picture of the background as the background like this:
 
 I didn't know how to fix it and when I searched it up on the documentaion it was more confusing so I searched it up on youtube: https://youtu.be/ACUkesLB62U?si=vBSqgE09ZfX4R6YK
@@ -28,7 +28,7 @@ I am currently on step 4, 5 and 6 of the engineering design process. I am on ste
 One of the skills that I have yet to be able to master is being able to master my time wisely. The freedom project is mainly done outside of school and is on our own free time. There are some days where we have time in class but for majority of the time it's at home. But since it isn't being checked everyday then procrasinating becomes even easier. As well as googling was one of the biggest skills that I've developed because googling for help has really helped a lot.
 
 ### What's next?:
-My next step for the freedom project is to add a timer for the player to make it more interesting. As well as adding a text box so that the text can be displayed and hopefully make it so that it is moving along with the character and can be skipped. These are basically the last things for the mvp so if it does not take up to much time then I can start working beyond mvp and make it work even smoother. Also, to work on level 2 and I think I want to change the background because it looks kind of blurry and not so clear. 
+My next step for the freedom project is to add a timer for the player to make it more interesting. As well as adding a text box so that the text can be displayed and hopefully make it so that it is moving along with the character and can be skipped. These are basically the last things for the mvp so if it does not take up to much time then I can start working beyond mvp and make it work even smoother. Also, to work on level 2 and I think I want to change the background because it looks kind of blurry and not so clear.
 
 
 Text
