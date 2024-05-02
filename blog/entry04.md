@@ -12,7 +12,7 @@ I didn't find one speficically for how to add a character but this video went in
 This website was SUPER helpful because everything made sense. Unfortunately, the first sprite sheet wasn't evenely spread out, therefore it wasn't so easy to cut them so that they align perfectly. However, after looking for a second sprite sheet I found one that I liked and that one was aligned perfectly and I was able to add it onto a game.
 
 ###### Background
-Adding a background was also really difficult. In the beginning when I was first starting to learn about gdevelop I said that adding a background was the easiset thing to do because at the time it really looked simple. However, when you're starting off from scratch it is a slightly more difficult because it has nothing, no behaviors, animations, nothing. At first when I was adding the background it would show multiple picture of the background as the background like this:
+Adding a background was also really difficult. In the beginning when I was first starting to learn about gdevelop I said that adding a background was the easiset thing to do because at the time it really looked simple. However, when you're starting off from scratch it is a slightly more difficult because it has nothing, no behaviors, animations, nothing. At first when I was adding the background it would show multiple picture of the background as the background.
 
 I didn't know how to fix it and when I searched it up on the documentaion it was more confusing so I searched it up on youtube: https://youtu.be/ACUkesLB62U?si=vBSqgE09ZfX4R6YK
 
